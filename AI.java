@@ -1,4 +1,4 @@
-public class ZadanieStr48 {
+public class AI {
     public static void main(String[] args) {
         String [] listaSlow1 = {"architektura wielowarstwowa", "30000 metrow", "roziwazanie B-do-B", "aplikacja kliencka",
                                 "interfejs interenetowy", "inteligentna karta", "rozwiazanie dynamiczne", "szesc sigma",
