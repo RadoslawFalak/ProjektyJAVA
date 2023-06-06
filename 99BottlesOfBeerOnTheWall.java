@@ -1,5 +1,5 @@
 
-public class ZadanieStr46 {
+public class BottlesOfBeerOnTheWall {
     public static void main (String [] args) {
         int iloscButelek = 99;
         String slowo = "bottles";
